@@ -1,0 +1,15 @@
+{
+    "bot_id": null,
+    "user_id": null,
+    "api_key":  "",
+    "api_secret": "",
+    "bot_name": "",
+    "pair": "XRP/USD",
+    "asset_name": "XRP",
+    "qoute_currency": "USD",
+    "up_zone": 0.51,
+    "low_zone": 0.45,
+    "capital": 1,
+    "grid_qty": 10
+ 
+}
