@@ -1,8 +1,8 @@
 {
     "bot_id": null,
     "user_id": null,
-    "api_key":  "",
-    "api_secret": "",
+    "api_key":  "Your API KEY",
+    "api_secret": "YOUr secrect",
     "bot_name": "",
     "pair": "XRP/USD",
     "asset_name": "XRP",
